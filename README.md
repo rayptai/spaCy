@@ -4,7 +4,7 @@
 
 spaCy is a library for **advanced Natural Language Processing** in Python and
 Cython. It's built on the very latest research, and was designed from day one to
-be used in real products.rerqewr
+be used in real products.
 
 spaCy comes with
 [pretrained pipelines](https://spacy.io/models) and
